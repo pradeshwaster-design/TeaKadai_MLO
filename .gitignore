@@ -1,0 +1,17 @@
+# ===== Blender backups =====
+*.blend1
+*.blend2
+
+# ===== OpenSCAD / editor backups =====
+*.bak
+*~
+*.swp
+
+# ===== OS junk =====
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ===== Temp / build artifacts =====
+*.tmp
+__pycache__/
