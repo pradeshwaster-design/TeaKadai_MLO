@@ -23,7 +23,7 @@
   and, for the vanity, a PowerShell batch exporter that also emits metre-scaled
   STLs (GTA V uses 1 unit = 1 m).
 - **Blender master scene, versioned** — `blender/` holds the saved iterations
-  of the textured, dressed interior (`TeaKadai_V1` → `V3`, V3 is the latest).
+  of the textured, dressed interior (`TeaKadai_V1` → `V4`, V4 is the latest).
 - **Game-ready workflow** — documented path from OpenSCAD → STL → Blender →
   GIMS EV / Sollumz → `.ydr` / `.ytd` / `.ybn` for an MLO interior.
 
@@ -44,7 +44,8 @@ TeaKadai_MLO/
 ├── blender/
 │   ├── TeaKadai_V1.blend          # master scene — saved iterations
 │   ├── TeaKadai_V2.blend          # V2
-│   └── TeaKadai_V3.blend          # latest (textured, dressed interior)
+│   ├── TeaKadai_V3.blend          # V3
+│   └── TeaKadai_V4.blend          # latest (textured, dressed interior)
 ├── references/                    # 16 reference / concept renders → gallery index
 ├── docs/
 │   └── countryside-tea-shop-3d-model.pdf   # full design document
