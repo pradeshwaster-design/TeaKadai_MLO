@@ -41,7 +41,8 @@ TeaKadai_MLO/
 ├── blender/
 │   └── TeaKadai_V1.blend          # Blender master scene (textured interior)
 ├── references/                    # 16 reference / concept renders → gallery index
-├── docs/                          # full design document (PDF) — next backup stage
+├── docs/
+│   └── countryside-tea-shop-3d-model.pdf   # full design document
 ├── LICENSE
 └── README.md
 ```
@@ -104,8 +105,8 @@ Browse all 16 reference/concept renders in the
 
 ## 📄 Documentation
 
-The complete design document (every part, dimension and export note) will be
-published under `docs/` in the next backup stage.
+The complete design document (every part, dimension and export note) is in
+[`docs/countryside-tea-shop-3d-model.pdf`](docs/countryside-tea-shop-3d-model.pdf).
 
 ## 📜 License
 
