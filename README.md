@@ -4,7 +4,7 @@
 > modeled part-by-part, exported to STL, assembled in **Blender**, and prepared as a
 > **GTA V MLO** interior.
 
-> 🖼️ The rendered reference gallery (16 concept renders) is added in the next backup stage.
+![Tea kadai interior — rendered](references/countryside-tea-shop-3d-model-1f021a74d7.webp)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Made with OpenSCAD](https://img.shields.io/badge/parametric-OpenSCAD-blue)](components/)
@@ -40,7 +40,7 @@ TeaKadai_MLO/
 │   └── 06_handwash_vanity/        # washbasin vanity + batch STL export script
 ├── blender/
 │   └── TeaKadai_V1.blend          # Blender master scene (textured interior)
-├── references/                    # 16 reference / concept renders — next backup stage
+├── references/                    # 16 reference / concept renders → gallery index
 ├── docs/                          # full design document (PDF) — next backup stage
 ├── LICENSE
 └── README.md
@@ -95,11 +95,12 @@ Writes every part twice: `stl\` (millimetres) and `stl_meters\` (GTA scale).
 
 ## 🖼️ Gallery
 
-| Chips rack — component preview |
-|---|
-| ![Chips rack preview](components/04_chips_rack/preview_iso.png) |
+| Pantry & props | Vanity · Freezer · TV |
+|---|---|
+| ![Component close-ups](references/countryside-tea-shop-3d-model-b8db6a50a1.webp) | ![Chips rack preview](components/04_chips_rack/preview_iso.png) |
 
-The full 16-render reference gallery is added in the next backup stage.
+Browse all 16 reference/concept renders in the
+[`references/`](references/) gallery index.
 
 ## 📄 Documentation
 
