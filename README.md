@@ -23,7 +23,7 @@
   and, for the vanity, a PowerShell batch exporter that also emits metre-scaled
   STLs (GTA V uses 1 unit = 1 m).
 - **Blender master scene, versioned** — `blender/` holds the saved iterations
-  of the textured, dressed interior (`TeaKadai_V1` → `V4`, V4 is the latest).
+  of the textured, dressed interior (`TeaKadai_V1` → `V5`, V5 is the latest).
 - **Game-ready workflow** — documented path from OpenSCAD → STL → Blender →
   GIMS EV / Sollumz → `.ydr` / `.ytd` / `.ybn` for an MLO interior.
 
@@ -31,7 +31,7 @@
 
 ```text
 TeaKadai_MLO/
-├── components/                    # 9 parametric model folders (93 files)
+├── components/                    # 10 parametric model folders (110 files)
 │   ├── 01_base_shell/             # floor slab, walls, front piers + sill, assembly
 │   ├── 02_roof/                   # roof slab, tiles, ridge cap, eave fascias, assembly
 │   ├── 03_pergola/                # posts, main/cross beams, braces, slats, assembly
@@ -40,12 +40,14 @@ TeaKadai_MLO/
 │   ├── 06_handwash_vanity/        # washbasin vanity + batch STL export script
 │   ├── 07_water_can/              # 20 L water can + stand (GTA-native metres)
 │   ├── 08_counter/                # service-window frame, counter ledge + legs
-│   └── 09_signage/                # hanging sign, price list, bracket (3D Tamil "டீ கடை")
+│   ├── 09_signage/                # hanging sign, price list, bracket (3D Tamil "டீ கடை")
+│   └── 10_furniture/              # porch bench + stools (exterior furniture)
 ├── blender/
 │   ├── TeaKadai_V1.blend          # master scene — saved iterations
 │   ├── TeaKadai_V2.blend          # V2
 │   ├── TeaKadai_V3.blend          # V3
-│   └── TeaKadai_V4.blend          # latest (textured, dressed interior)
+│   ├── TeaKadai_V4.blend          # V4
+│   └── TeaKadai_V5.blend          # latest (textured, dressed interior)
 ├── references/                    # 16 reference / concept renders → gallery index
 ├── docs/
 │   └── countryside-tea-shop-3d-model.pdf   # full design document
@@ -66,6 +68,7 @@ TeaKadai_MLO/
 | 07 | [`07_water_can`](components/07_water_can) | 20 L (5-gal) water can with dispensing tap on a box stand | Authored in **metres** — GTA-native, no scaling needed; `all`/`can`/`stand` parts with export wrappers; game-ready at `segments = 24` (~1–2 k tris), base-centre origins for easy prop placement |
 | 08 | [`08_counter`](components/08_counter) | Service-window counter & frame: teal window frame (header, jambs, sill trim), counter ledge + support legs | Fills the front-wall window opening from Group 1; shares the shop's global coordinate system (mm) with Groups 1–3 |
 | 09 | [`09_signage`](components/09_signage) | Signage: hanging sign board, price-list sign, wall bracket — 3D Tamil "டீ கடை" lettering | Pre-aligned to the shared coordinate system (Groups 1–4); own parameter + module files |
+| 10 | [`10_furniture`](components/10_furniture) | Exterior furniture: long wooden porch bench (plank seat, post + apron-rail leg assemblies) and stools | Bench + stool parts incl. local-coordinate variants; pre-aligned to the shared coordinate system (Groups 1–5); own parameter + module files |
 
 ## 🚀 Getting started
 

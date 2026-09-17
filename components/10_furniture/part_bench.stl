@@ -1,0 +1,870 @@
+solid OpenSCAD_Model
+  facet normal -1 0 0
+    outer loop
+      vertex 607.5 -1432.5 0
+      vertex 607.5 -1387.5 420
+      vertex 607.5 -1387.5 0
+    endloop
+  endfacet
+  facet normal -1 -0 0
+    outer loop
+      vertex 607.5 -1387.5 420
+      vertex 607.5 -1432.5 0
+      vertex 607.5 -1432.5 420
+    endloop
+  endfacet
+  facet normal -0 0 -1
+    outer loop
+      vertex 660 -1410 420
+      vertex 652.5 -1432.5 420
+      vertex 652.5 -1410 420
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 607.5 -1387.5 420
+      vertex 630 -1112.5 420
+      vertex 630 -1387.5 420
+    endloop
+  endfacet
+  facet normal -0 0 -1
+    outer loop
+      vertex 630 -1112.5 420
+      vertex 607.5 -1387.5 420
+      vertex 607.5 -1112.5 420
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 1947.5 -1090 420
+      vertex 1940 -1090 420
+      vertex 1947.5 -1067.5 420
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 1970 -1387.5 420
+      vertex 1992.5 -1112.5 420
+      vertex 1992.5 -1387.5 420
+    endloop
+  endfacet
+  facet normal -0 0 -1
+    outer loop
+      vertex 1992.5 -1112.5 420
+      vertex 1970 -1387.5 420
+      vertex 1970 -1112.5 420
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 1992.5 -1387.5 420
+      vertex 2050 -1450 420
+      vertex 1992.5 -1432.5 420
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 2050 -1450 420
+      vertex 1947.5 -1432.5 420
+      vertex 1992.5 -1432.5 420
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 1947.5 -1432.5 420
+      vertex 1940 -1410 420
+      vertex 1947.5 -1410 420
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 1940 -1410 420
+      vertex 660 -1410 420
+      vertex 1940 -1090 420
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 1947.5 -1432.5 420
+      vertex 660 -1410 420
+      vertex 1940 -1410 420
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 652.5 -1432.5 420
+      vertex 1947.5 -1432.5 420
+      vertex 2050 -1450 420
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 1947.5 -1432.5 420
+      vertex 652.5 -1432.5 420
+      vertex 660 -1410 420
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 550 -1450 420
+      vertex 652.5 -1432.5 420
+      vertex 2050 -1450 420
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 550 -1450 420
+      vertex 607.5 -1387.5 420
+      vertex 607.5 -1432.5 420
+    endloop
+  endfacet
+  facet normal -0 0 -1
+    outer loop
+      vertex 607.5 -1387.5 420
+      vertex 550 -1450 420
+      vertex 607.5 -1112.5 420
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 550 -1050 420
+      vertex 607.5 -1112.5 420
+      vertex 550 -1450 420
+    endloop
+  endfacet
+  facet normal -0 0 -1
+    outer loop
+      vertex 652.5 -1432.5 420
+      vertex 550 -1450 420
+      vertex 607.5 -1432.5 420
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 2050 -1450 420
+      vertex 1992.5 -1387.5 420
+      vertex 2050 -1050 420
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 1992.5 -1112.5 420
+      vertex 2050 -1050 420
+      vertex 1992.5 -1387.5 420
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 1992.5 -1067.5 420
+      vertex 2050 -1050 420
+      vertex 1992.5 -1112.5 420
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 1947.5 -1067.5 420
+      vertex 2050 -1050 420
+      vertex 1992.5 -1067.5 420
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 660 -1090 420
+      vertex 1940 -1090 420
+      vertex 660 -1410 420
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 1940 -1090 420
+      vertex 660 -1090 420
+      vertex 1947.5 -1067.5 420
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 652.5 -1067.5 420
+      vertex 1947.5 -1067.5 420
+      vertex 660 -1090 420
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 652.5 -1067.5 420
+      vertex 660 -1090 420
+      vertex 652.5 -1090 420
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 1947.5 -1067.5 420
+      vertex 652.5 -1067.5 420
+      vertex 2050 -1050 420
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 550 -1050 420
+      vertex 652.5 -1067.5 420
+      vertex 607.5 -1067.5 420
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 652.5 -1067.5 420
+      vertex 550 -1050 420
+      vertex 2050 -1050 420
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 607.5 -1112.5 420
+      vertex 550 -1050 420
+      vertex 607.5 -1067.5 420
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 652.5 -1410 420
+      vertex 652.5 -1432.5 420
+      vertex 652.5 -1410 370
+    endloop
+  endfacet
+  facet normal 1 -0 0
+    outer loop
+      vertex 652.5 -1410 370
+      vertex 652.5 -1387.5 0
+      vertex 652.5 -1387.5 370
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 652.5 -1432.5 0
+      vertex 652.5 -1410 370
+      vertex 652.5 -1432.5 420
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 652.5 -1410 370
+      vertex 652.5 -1432.5 0
+      vertex 652.5 -1387.5 0
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 652.5 -1387.5 370
+      vertex 652.5 -1387.5 0
+      vertex 630 -1387.5 370
+    endloop
+  endfacet
+  facet normal 0 1 -0
+    outer loop
+      vertex 630 -1387.5 370
+      vertex 607.5 -1387.5 420
+      vertex 630 -1387.5 420
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 607.5 -1387.5 0
+      vertex 630 -1387.5 370
+      vertex 652.5 -1387.5 0
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 630 -1387.5 370
+      vertex 607.5 -1387.5 0
+      vertex 607.5 -1387.5 420
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 607.5 -1432.5 0
+      vertex 652.5 -1387.5 0
+      vertex 652.5 -1432.5 0
+    endloop
+  endfacet
+  facet normal -0 0 -1
+    outer loop
+      vertex 652.5 -1387.5 0
+      vertex 607.5 -1432.5 0
+      vertex 607.5 -1387.5 0
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 607.5 -1432.5 0
+      vertex 652.5 -1432.5 420
+      vertex 607.5 -1432.5 420
+    endloop
+  endfacet
+  facet normal 0 -1 -0
+    outer loop
+      vertex 652.5 -1432.5 420
+      vertex 607.5 -1432.5 0
+      vertex 652.5 -1432.5 0
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 607.5 -1112.5 0
+      vertex 607.5 -1067.5 420
+      vertex 607.5 -1067.5 0
+    endloop
+  endfacet
+  facet normal -1 -0 0
+    outer loop
+      vertex 607.5 -1067.5 420
+      vertex 607.5 -1112.5 0
+      vertex 607.5 -1112.5 420
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 652.5 -1090 370
+      vertex 652.5 -1067.5 420
+      vertex 652.5 -1090 420
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 652.5 -1067.5 420
+      vertex 652.5 -1090 370
+      vertex 652.5 -1067.5 0
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 652.5 -1112.5 0
+      vertex 652.5 -1090 370
+      vertex 652.5 -1112.5 370
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 652.5 -1090 370
+      vertex 652.5 -1112.5 0
+      vertex 652.5 -1067.5 0
+    endloop
+  endfacet
+  facet normal 0 1 -0
+    outer loop
+      vertex 652.5 -1067.5 0
+      vertex 607.5 -1067.5 420
+      vertex 652.5 -1067.5 420
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 607.5 -1067.5 420
+      vertex 652.5 -1067.5 0
+      vertex 607.5 -1067.5 0
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 607.5 -1112.5 0
+      vertex 652.5 -1067.5 0
+      vertex 652.5 -1112.5 0
+    endloop
+  endfacet
+  facet normal -0 0 -1
+    outer loop
+      vertex 652.5 -1067.5 0
+      vertex 607.5 -1112.5 0
+      vertex 607.5 -1067.5 0
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 607.5 -1112.5 420
+      vertex 630 -1112.5 370
+      vertex 630 -1112.5 420
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 607.5 -1112.5 0
+      vertex 630 -1112.5 370
+      vertex 607.5 -1112.5 420
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 652.5 -1112.5 0
+      vertex 630 -1112.5 370
+      vertex 607.5 -1112.5 0
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 630 -1112.5 370
+      vertex 652.5 -1112.5 0
+      vertex 652.5 -1112.5 370
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 630 -1387.5 370
+      vertex 630 -1112.5 420
+      vertex 630 -1112.5 370
+    endloop
+  endfacet
+  facet normal -1 -0 0
+    outer loop
+      vertex 630 -1112.5 420
+      vertex 630 -1387.5 370
+      vertex 630 -1387.5 420
+    endloop
+  endfacet
+  facet normal 1 -0 0
+    outer loop
+      vertex 660 -1410 420
+      vertex 660 -1090 370
+      vertex 660 -1090 420
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 660 -1090 370
+      vertex 660 -1410 420
+      vertex 660 -1410 370
+    endloop
+  endfacet
+  facet normal 0 1 -0
+    outer loop
+      vertex 660 -1090 370
+      vertex 652.5 -1090 420
+      vertex 660 -1090 420
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 652.5 -1090 420
+      vertex 660 -1090 370
+      vertex 652.5 -1090 370
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 630 -1387.5 370
+      vertex 652.5 -1112.5 370
+      vertex 652.5 -1387.5 370
+    endloop
+  endfacet
+  facet normal -0 0 -1
+    outer loop
+      vertex 652.5 -1112.5 370
+      vertex 630 -1387.5 370
+      vertex 630 -1112.5 370
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 652.5 -1387.5 370
+      vertex 660 -1410 370
+      vertex 652.5 -1410 370
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 660 -1410 370
+      vertex 652.5 -1387.5 370
+      vertex 660 -1090 370
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 652.5 -1112.5 370
+      vertex 660 -1090 370
+      vertex 652.5 -1387.5 370
+    endloop
+  endfacet
+  facet normal -0 0 -1
+    outer loop
+      vertex 660 -1090 370
+      vertex 652.5 -1112.5 370
+      vertex 652.5 -1090 370
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 652.5 -1410 370
+      vertex 660 -1410 420
+      vertex 652.5 -1410 420
+    endloop
+  endfacet
+  facet normal 0 -1 -0
+    outer loop
+      vertex 660 -1410 420
+      vertex 652.5 -1410 370
+      vertex 660 -1410 370
+    endloop
+  endfacet
+  facet normal 1 -0 0
+    outer loop
+      vertex 1992.5 -1432.5 420
+      vertex 1992.5 -1387.5 0
+      vertex 1992.5 -1387.5 420
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 1992.5 -1387.5 0
+      vertex 1992.5 -1432.5 420
+      vertex 1992.5 -1432.5 0
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 1947.5 -1387.5 0
+      vertex 1947.5 -1410 370
+      vertex 1947.5 -1387.5 370
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 1947.5 -1432.5 0
+      vertex 1947.5 -1410 370
+      vertex 1947.5 -1387.5 0
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 1947.5 -1432.5 420
+      vertex 1947.5 -1410 370
+      vertex 1947.5 -1432.5 0
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 1947.5 -1410 370
+      vertex 1947.5 -1432.5 420
+      vertex 1947.5 -1410 420
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 1992.5 -1387.5 420
+      vertex 1970 -1387.5 370
+      vertex 1970 -1387.5 420
+    endloop
+  endfacet
+  facet normal 0 1 -0
+    outer loop
+      vertex 1992.5 -1387.5 0
+      vertex 1970 -1387.5 370
+      vertex 1992.5 -1387.5 420
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 1947.5 -1387.5 0
+      vertex 1970 -1387.5 370
+      vertex 1992.5 -1387.5 0
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 1970 -1387.5 370
+      vertex 1947.5 -1387.5 0
+      vertex 1947.5 -1387.5 370
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 1947.5 -1432.5 0
+      vertex 1992.5 -1387.5 0
+      vertex 1992.5 -1432.5 0
+    endloop
+  endfacet
+  facet normal -0 0 -1
+    outer loop
+      vertex 1992.5 -1387.5 0
+      vertex 1947.5 -1432.5 0
+      vertex 1947.5 -1387.5 0
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 1947.5 -1432.5 0
+      vertex 1992.5 -1432.5 420
+      vertex 1947.5 -1432.5 420
+    endloop
+  endfacet
+  facet normal 0 -1 -0
+    outer loop
+      vertex 1992.5 -1432.5 420
+      vertex 1947.5 -1432.5 0
+      vertex 1992.5 -1432.5 0
+    endloop
+  endfacet
+  facet normal 1 -0 0
+    outer loop
+      vertex 1992.5 -1112.5 420
+      vertex 1992.5 -1067.5 0
+      vertex 1992.5 -1067.5 420
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 1992.5 -1067.5 0
+      vertex 1992.5 -1112.5 420
+      vertex 1992.5 -1112.5 0
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 1947.5 -1067.5 0
+      vertex 1947.5 -1090 370
+      vertex 1947.5 -1067.5 420
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 1947.5 -1112.5 0
+      vertex 1947.5 -1090 370
+      vertex 1947.5 -1067.5 0
+    endloop
+  endfacet
+  facet normal -1 -0 0
+    outer loop
+      vertex 1947.5 -1090 370
+      vertex 1947.5 -1112.5 0
+      vertex 1947.5 -1112.5 370
+    endloop
+  endfacet
+  facet normal -1 -0 0
+    outer loop
+      vertex 1947.5 -1067.5 420
+      vertex 1947.5 -1090 370
+      vertex 1947.5 -1090 420
+    endloop
+  endfacet
+  facet normal 0 1 -0
+    outer loop
+      vertex 1992.5 -1067.5 0
+      vertex 1947.5 -1067.5 420
+      vertex 1992.5 -1067.5 420
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 1947.5 -1067.5 420
+      vertex 1992.5 -1067.5 0
+      vertex 1947.5 -1067.5 0
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 1947.5 -1112.5 0
+      vertex 1992.5 -1067.5 0
+      vertex 1992.5 -1112.5 0
+    endloop
+  endfacet
+  facet normal -0 0 -1
+    outer loop
+      vertex 1992.5 -1067.5 0
+      vertex 1947.5 -1112.5 0
+      vertex 1947.5 -1067.5 0
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 1947.5 -1112.5 370
+      vertex 1947.5 -1112.5 0
+      vertex 1970 -1112.5 370
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 1970 -1112.5 370
+      vertex 1992.5 -1112.5 420
+      vertex 1970 -1112.5 420
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 1992.5 -1112.5 0
+      vertex 1970 -1112.5 370
+      vertex 1947.5 -1112.5 0
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 1970 -1112.5 370
+      vertex 1992.5 -1112.5 0
+      vertex 1992.5 -1112.5 420
+    endloop
+  endfacet
+  facet normal 1 -0 0
+    outer loop
+      vertex 1970 -1387.5 420
+      vertex 1970 -1112.5 370
+      vertex 1970 -1112.5 420
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 1970 -1112.5 370
+      vertex 1970 -1387.5 420
+      vertex 1970 -1387.5 370
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 1940 -1410 370
+      vertex 1940 -1090 420
+      vertex 1940 -1090 370
+    endloop
+  endfacet
+  facet normal -1 -0 0
+    outer loop
+      vertex 1940 -1090 420
+      vertex 1940 -1410 370
+      vertex 1940 -1410 420
+    endloop
+  endfacet
+  facet normal 0 1 -0
+    outer loop
+      vertex 1947.5 -1090 370
+      vertex 1940 -1090 420
+      vertex 1947.5 -1090 420
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 1940 -1090 420
+      vertex 1947.5 -1090 370
+      vertex 1940 -1090 370
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 1940 -1410 370
+      vertex 1947.5 -1387.5 370
+      vertex 1947.5 -1410 370
+    endloop
+  endfacet
+  facet normal -0 0 -1
+    outer loop
+      vertex 1947.5 -1387.5 370
+      vertex 1940 -1410 370
+      vertex 1947.5 -1112.5 370
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 1940 -1090 370
+      vertex 1947.5 -1112.5 370
+      vertex 1940 -1410 370
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 1947.5 -1112.5 370
+      vertex 1940 -1090 370
+      vertex 1947.5 -1090 370
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 1947.5 -1387.5 370
+      vertex 1970 -1112.5 370
+      vertex 1970 -1387.5 370
+    endloop
+  endfacet
+  facet normal -0 0 -1
+    outer loop
+      vertex 1970 -1112.5 370
+      vertex 1947.5 -1387.5 370
+      vertex 1947.5 -1112.5 370
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 1940 -1410 370
+      vertex 1947.5 -1410 420
+      vertex 1940 -1410 420
+    endloop
+  endfacet
+  facet normal 0 -1 -0
+    outer loop
+      vertex 1947.5 -1410 420
+      vertex 1940 -1410 370
+      vertex 1947.5 -1410 370
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 550 -1450 420
+      vertex 550 -1050 460
+      vertex 550 -1050 420
+    endloop
+  endfacet
+  facet normal -1 -0 0
+    outer loop
+      vertex 550 -1050 460
+      vertex 550 -1450 420
+      vertex 550 -1450 460
+    endloop
+  endfacet
+  facet normal -0 0 1
+    outer loop
+      vertex 550 -1050 460
+      vertex 2050 -1450 460
+      vertex 2050 -1050 460
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 2050 -1450 460
+      vertex 550 -1050 460
+      vertex 550 -1450 460
+    endloop
+  endfacet
+  facet normal 1 -0 0
+    outer loop
+      vertex 2050 -1450 460
+      vertex 2050 -1050 420
+      vertex 2050 -1050 460
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 2050 -1050 420
+      vertex 2050 -1450 460
+      vertex 2050 -1450 420
+    endloop
+  endfacet
+  facet normal 0 1 -0
+    outer loop
+      vertex 2050 -1050 420
+      vertex 550 -1050 460
+      vertex 2050 -1050 460
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 550 -1050 460
+      vertex 2050 -1050 420
+      vertex 550 -1050 420
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 550 -1450 420
+      vertex 2050 -1450 460
+      vertex 550 -1450 460
+    endloop
+  endfacet
+  facet normal 0 -1 -0
+    outer loop
+      vertex 2050 -1450 460
+      vertex 550 -1450 420
+      vertex 2050 -1450 420
+    endloop
+  endfacet
+endsolid OpenSCAD_Model
