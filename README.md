@@ -31,14 +31,16 @@
 
 ```text
 TeaKadai_MLO/
-├── components/                    # 7 parametric model folders (65 files)
+├── components/                    # 9 parametric model folders (93 files)
 │   ├── 01_base_shell/             # floor slab, walls, front piers + sill, assembly
 │   ├── 02_roof/                   # roof slab, tiles, ridge cap, eave fascias, assembly
 │   ├── 03_pergola/                # posts, main/cross beams, braces, slats, assembly
 │   ├── 04_chips_rack/             # snack display rack + render previews
 │   ├── 05_chest_freezer/          # chest freezer + render previews
 │   ├── 06_handwash_vanity/        # washbasin vanity + batch STL export script
-│   └── 07_water_can/              # 20 L water can + stand (GTA-native metres)
+│   ├── 07_water_can/              # 20 L water can + stand (GTA-native metres)
+│   ├── 08_counter/                # service-window frame, counter ledge + legs
+│   └── 09_signage/                # hanging sign, price list, bracket (3D Tamil "டீ கடை")
 ├── blender/
 │   ├── TeaKadai_V1.blend          # master scene — saved iterations
 │   ├── TeaKadai_V2.blend          # V2
@@ -61,6 +63,8 @@ TeaKadai_MLO/
 | 05 | [`05_chest_freezer`](components/05_chest_freezer) | Corner chest freezer with grip + vents | Iteration and close-up renders document the design |
 | 06 | [`06_handwash_vanity`](components/06_handwash_vanity) | Rustic washbasin vanity (blue doors, concrete top, gooseneck tap) | Includes [`export_stls.ps1`](components/06_handwash_vanity/export_stls.ps1) batch exporter (mm **and** GTA metres) and a detailed [component README](components/06_handwash_vanity/README.md) |
 | 07 | [`07_water_can`](components/07_water_can) | 20 L (5-gal) water can with dispensing tap on a box stand | Authored in **metres** — GTA-native, no scaling needed; `all`/`can`/`stand` parts with export wrappers; game-ready at `segments = 24` (~1–2 k tris), base-centre origins for easy prop placement |
+| 08 | [`08_counter`](components/08_counter) | Service-window counter & frame: teal window frame (header, jambs, sill trim), counter ledge + support legs | Fills the front-wall window opening from Group 1; shares the shop's global coordinate system (mm) with Groups 1–3 |
+| 09 | [`09_signage`](components/09_signage) | Signage: hanging sign board, price-list sign, wall bracket — 3D Tamil "டீ கடை" lettering | Pre-aligned to the shared coordinate system (Groups 1–4); own parameter + module files |
 
 ## 🚀 Getting started
 
