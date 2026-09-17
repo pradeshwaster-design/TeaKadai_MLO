@@ -31,13 +31,14 @@
 
 ```text
 TeaKadai_MLO/
-├── components/                    # 6 parametric model folders (56 files)
+├── components/                    # 7 parametric model folders (65 files)
 │   ├── 01_base_shell/             # floor slab, walls, front piers + sill, assembly
 │   ├── 02_roof/                   # roof slab, tiles, ridge cap, eave fascias, assembly
 │   ├── 03_pergola/                # posts, main/cross beams, braces, slats, assembly
 │   ├── 04_chips_rack/             # snack display rack + render previews
 │   ├── 05_chest_freezer/          # chest freezer + render previews
-│   └── 06_handwash_vanity/        # washbasin vanity + batch STL export script
+│   ├── 06_handwash_vanity/        # washbasin vanity + batch STL export script
+│   └── 07_water_can/              # 20 L water can + stand (GTA-native metres)
 ├── blender/
 │   ├── TeaKadai_V1.blend          # master scene — saved iterations
 │   ├── TeaKadai_V2.blend          # V2
@@ -59,6 +60,7 @@ TeaKadai_MLO/
 | 04 | [`04_chips_rack`](components/04_chips_rack) | Wall-standing snack/chips display rack | Iso + front render previews included |
 | 05 | [`05_chest_freezer`](components/05_chest_freezer) | Corner chest freezer with grip + vents | Iteration and close-up renders document the design |
 | 06 | [`06_handwash_vanity`](components/06_handwash_vanity) | Rustic washbasin vanity (blue doors, concrete top, gooseneck tap) | Includes [`export_stls.ps1`](components/06_handwash_vanity/export_stls.ps1) batch exporter (mm **and** GTA metres) and a detailed [component README](components/06_handwash_vanity/README.md) |
+| 07 | [`07_water_can`](components/07_water_can) | 20 L (5-gal) water can with dispensing tap on a box stand | Authored in **metres** — GTA-native, no scaling needed; `all`/`can`/`stand` parts with export wrappers; game-ready at `segments = 24` (~1–2 k tris), base-centre origins for easy prop placement |
 
 ## 🚀 Getting started
 
